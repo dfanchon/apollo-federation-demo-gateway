@@ -1,0 +1,12 @@
+[submodule "services/reviews"]
+	path = services/reviews
+	url = https://github.com/dfanchon/apollo-federation-demo-reviews
+[submodule "services/accounts"]
+	path = services/accounts
+	url = https://github.com/dfanchon/apollo-federation-demo-accounts
+[submodule "services/inventory"]
+	path = services/inventory
+	url = https://github.com/dfanchon/apollo-federation-demo-inventory
+[submodule "services/products"]
+	path = services/products
+	url = https://github.com/dfanchon/apollo-federation-demo-products
