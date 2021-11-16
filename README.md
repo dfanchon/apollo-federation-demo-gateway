@@ -17,7 +17,7 @@ git submodule update --init --recursive
 or 
 
 ```sh
-git submodule update --init --recursive -j 8 to to fetch 8 submodules at the same
+git submodule update --init --recursive -j 8 to to fetch 8 submodules at the same time
 ```
 
 3. Start all the micro-services at once
